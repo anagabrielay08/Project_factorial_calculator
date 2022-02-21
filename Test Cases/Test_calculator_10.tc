@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In this test case we are going to validate the factorial number of 10 wich is 3628800</description>
+   <name>Test_calculator_10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6723030-c8e9-419e-a14a-85440acd5bbc</testCaseGuid>
+</TestCaseEntity>

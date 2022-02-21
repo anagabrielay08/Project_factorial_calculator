@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for validate if the calculator show the right result about the number we set in the txt_number.</description>
+   <name>Test_calculator_5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8f8de5c-d24f-4fed-80b4-8f5b622016c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The factorial number of 0 is 1 so in this test case we are to validate this information</description>
+   <name>Test_calculator_0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e70acb4e-2dcc-40ee-bf9f-4d01ef7b79a1</testCaseGuid>
+</TestCaseEntity>
